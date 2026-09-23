@@ -1,0 +1,47 @@
+[
+  {
+    "id": "rev-1",
+    "bookId": "book-1",
+    "userName": "Lucía Morales",
+    "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "date": "2026-08-14",
+    "comment": "Una de las mejores obras que jamás he leído. La atmósfera mágica de Macondo te atrapa desde las primeras líneas. Inolvidable."
+  },
+  {
+    "id": "rev-2",
+    "bookId": "book-1",
+    "userName": "Carlos Mendoza",
+    "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "date": "2026-09-02",
+    "comment": "Recomiendo tener a mano el árbol genealógico para no perderse con tantos Aurelianos y Arcadio, pero el lenguaje es puro arte poético."
+  },
+  {
+    "id": "rev-3",
+    "bookId": "book-2",
+    "userName": "Elena Vega",
+    "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "date": "2026-07-29",
+    "comment": "El worldbuilding de Frank Herbert es insuperable. Política, ecología, religión y profecías entrelazadas con maestría."
+  },
+  {
+    "id": "rev-4",
+    "bookId": "book-3",
+    "userName": "Andrés Gómez",
+    "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "date": "2026-08-20",
+    "comment": "Práctico, directo al punto y aplicable desde el día uno. El concepto de la regla de los dos minutos me cambió la rutina matutina."
+  },
+  {
+    "id": "rev-5",
+    "bookId": "book-5",
+    "userName": "Valeria Soto",
+    "userAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=150",
+    "rating": 5,
+    "date": "2026-09-10",
+    "comment": "Te hace replantearte todo lo que creías saber sobre la sociedad, el dinero y la cooperación humana a gran escala."
+  }
+]

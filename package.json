@@ -1,0 +1,24 @@
+{
+  "name": "bookhub",
+  "version": "1.0.0",
+  "description": "BOOKHUB - Plataforma y Comunidad de Lectores Fullstack",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node run.js",
+    "start": "node run.js",
+    "server": "node server/server.js",
+    "client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": [
+    "bookhub",
+    "books",
+    "reading-community",
+    "react",
+    "express",
+    "goodreads"
+  ],
+  "author": "BookHub Team",
+  "license": "MIT"
+}

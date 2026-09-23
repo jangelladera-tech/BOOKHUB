@@ -1,0 +1,42 @@
+[
+  {
+    "bookId": "book-2",
+    "status": "reading",
+    "currentPage": 340,
+    "rating": 5,
+    "notes": "Fascinante la descripción de los gusanos de arena de Shai-Hulud.",
+    "updatedAt": "2026-09-20"
+  },
+  {
+    "bookId": "book-1",
+    "status": "read",
+    "currentPage": 471,
+    "rating": 5,
+    "notes": "Obra maestra inmortal.",
+    "updatedAt": "2026-08-15"
+  },
+  {
+    "bookId": "book-3",
+    "status": "read",
+    "currentPage": 320,
+    "rating": 5,
+    "notes": "Excelente para optimizar hábitos diarios.",
+    "updatedAt": "2026-08-25"
+  },
+  {
+    "bookId": "book-6",
+    "status": "want_to_read",
+    "currentPage": 0,
+    "rating": null,
+    "notes": "Recomendado por el club de lectura.",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "bookId": "book-7",
+    "status": "want_to_read",
+    "currentPage": 0,
+    "rating": null,
+    "notes": "",
+    "updatedAt": "2026-09-18"
+  }
+]
